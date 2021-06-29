@@ -8,4 +8,5 @@ public class Student {
     private String uid;
    private String   phone;
     private int  rid;
+    private  int gittext02;
 }
