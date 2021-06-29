@@ -6,4 +6,5 @@ public class Student {
     private  String id;
     private String uname;
     private String uid;
+    private int  rid;
 }
